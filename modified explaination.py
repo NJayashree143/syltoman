@@ -3,6 +3,7 @@ import re
 import chromadb
 import os
 from langchain_ollama import OllamaLLM
+#HI
 
 # Initialize ChromaDB client
 chroma_client = chromadb.PersistentClient(path=os.path.join(os.getcwd(), "chroma_db"))
