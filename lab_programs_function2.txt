@@ -1,0 +1,28 @@
+Lab Section 1:
+
+1. :
+2. Implement Three nodes point – to – point network with duplex links between them for different
+topologies. 1Set the queue size, vary the bandwidth, and find the number of packets dropped for
+various iterations.
+
+Lab Section 2:
+
+1. :
+2. Implement simple ESS and with transmitting nodes in wire-less LAN by simulation and
+determine the throughput with respect to transmission of packets
+3. Write a program for error detecting code using CRC-CCITT (16- bits).
+
+Lab Section 3:
+
+1. :
+2. Implement transmission of ping messages/trace route over a network topology consisting of 6
+nodes and find the number of packets dropped due to congestion in the network.
+3. Write a program to find the shortest path between vertices using bellman-ford algorithm.
+
+Lab Section 4:
+
+1. :
+2. Implement an Ethernet LAN using n nodes and set multiple traffic nodes and plot congestion
+window for different source / destination.
+3. Write a program for congestion control using leaky bucket algorithm.
+

@@ -1,0 +1,33 @@
+Develop a C# program to simulate simple arithmetic calculator for Addition, Subtraction, Multiplication,
+Division and Mod operations. Read the operator and operands through console.
+
+Develop a C# program to print Armstrong Number between 1 to 1000.
+
+Develop a C# program to list all substrings in a given string. [ Hint: use of Substring() method]
+
+Develop a C# program to demonstrate Division by Zero and Index Out of Range exceptions.
+
+Develop a C# program to generate and printPascal Triangle using Two Dimensional arrays.
+
+Develop a C# program to generate and print Floyds Triangle using Jagged arrays.
+
+Develop a C# program to read a text file and copy the file contents to another text file.
+
+Develop a C# C# Program to Implement Stack with Push and Pop Operations [Hint: Use class, get/set
+properties, methods for push and pop and main method]
+
+Design a class “Complex” with data members, constructor and method for overloading a binary operator
+‘+’. Develop a C# program to read Two complex number and Print the results of addition.
+
+Develop a C# program to create a class named shape. Create three sub classes namely:  circle, triangle and
+square, each class has two member functions named draw () and erase (). Demonstrate polymorphism
+concepts by developing suitable methods, defining member data and main program.
+
+Develop a C# program to create an abstract class Shape with abstract methods calculateArea() and
+calculatePerimeter(). Create subclasses Circle and Triangle that extend the Shape class and implement the
+respective methods to calculate the area and perimeter of each shape.
+
+Develop a C# program to create an interface Resizable with methods resizeWidth(int width) and
+resizeHeight(int height) that allow an object to be resized. Create a class Rectangle that implements the
+Resizable interface and implements the resize methods
+
